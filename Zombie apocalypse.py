@@ -54,4 +54,5 @@ if card1==random_cards[1]:
     print(survivors)
 if card1==random_cards[2]:
     random_cards.remove(card1[dice1])
+print("hello")
 
